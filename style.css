@@ -1,0 +1,33 @@
+h1 {
+    color: rgb(120, 81, 169);
+   }  
+
+h2 {
+    color: rgb(120, 81, 169);
+    }  
+        
+p  {
+    color: rgb(120, 81, 169);
+   }
+
+ul {
+    color: rgb(120, 81, 169);
+   } 
+
+ol {
+    color: rgb(120, 81, 169);
+   } 
+
+div {
+     display: flex;
+     justify-content: center;
+    }
+
+img {
+     width: 25%;
+    }
+            
+body {
+     background-color: rgb(220, 208, 255);
+     font-family: "Helvetica", sans-serif; 
+     }
